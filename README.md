@@ -1,3 +1,6 @@
+#Intro
+Just a quick test to test JDs idea, and see how well svelte + tailwind function and if we can keep it at a low enough overhead to run on any device as a PWA.
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
